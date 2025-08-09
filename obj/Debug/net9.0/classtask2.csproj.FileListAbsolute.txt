@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\bin\Debug\net9.0\classtask2.exe
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\bin\Debug\net9.0\classtask2.deps.json
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\bin\Debug\net9.0\classtask2.runtimeconfig.json
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\bin\Debug\net9.0\classtask2.dll
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\bin\Debug\net9.0\classtask2.pdb
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.AssemblyInfo.cs
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.dll
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\refint\classtask2.dll
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.pdb
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\classtask2.genruntimeconfig.cache
+C:\Users\user\Desktop\C#1Moh\Praktiki\classtask2\obj\Debug\net9.0\ref\classtask2.dll
